@@ -14,7 +14,11 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "this is remote", Toast.LENGTH_SHORT).show();
         findViewById(android.R.id.content);
 
+
         //this is master.
+
+        //this is dev .
+
 
     }
 }
