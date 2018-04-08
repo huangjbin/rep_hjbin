@@ -36,7 +36,11 @@ public class MainActivity extends AppCompatActivity {
 
         //dev_test分支增加代码2
 
+<<<<<<< HEAD
         //dev_test3********
+=======
+        //dev3*****
+>>>>>>> f13a367d3aea0ee372555655a92881ab9678c607
 
 
     }
